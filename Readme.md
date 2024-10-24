@@ -1,6 +1,6 @@
 # LaTeX Dockerized Compilation Tool
 
-> .tex and .ms files
+> .tex and .md files
 
 This project provides a Docker-based environment for compiling LaTeX and Markdown documents. It allows you to easily manage dependencies and keep a clean local environment by using Docker. The project supports custom *.sty* files, automatic rebuilds on file changes, and different document types such as *.tex* and *.md*.
 
